@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/myco-solver/static/css/main.f855e6bc.css",
+    "main.js": "/myco-solver/static/js/main.6aa748c8.js",
+    "static/js/453.632a030d.chunk.js": "/myco-solver/static/js/453.632a030d.chunk.js",
+    "static/media/logo.svg": "/myco-solver/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/myco-solver/index.html",
+    "main.f855e6bc.css.map": "/myco-solver/static/css/main.f855e6bc.css.map",
+    "main.6aa748c8.js.map": "/myco-solver/static/js/main.6aa748c8.js.map",
+    "453.632a030d.chunk.js.map": "/myco-solver/static/js/453.632a030d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.6aa748c8.js"
+  ]
+}
